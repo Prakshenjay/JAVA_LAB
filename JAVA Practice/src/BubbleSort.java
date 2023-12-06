@@ -39,7 +39,7 @@ public class BubbleSort {
 
         System.out.println(" ");
 
-        String array2[] = {"Ram","Rohit","Abhay","Chetak","Prakshenjay","Bhati"};
+        String array2[] = {"Rohit","Abhay","Chetak","Prakshenjay","Bhati"};
         int n2 = array2.length;
 
         BubbleSort2(array2,n2);
