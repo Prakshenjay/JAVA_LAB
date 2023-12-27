@@ -13,7 +13,8 @@ public class PersonInheritance {
             this.Age = age;
             this.Gender = gender;
         }
-        public void printDetails() {
+
+        public void printDetails(){
             System.out.println("\nName: " + this.Name);
             System.out.println("\nAge: " + this.Age);
             System.out.println("\nGender: " + this.Gender);
